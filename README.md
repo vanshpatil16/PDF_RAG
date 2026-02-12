@@ -75,5 +75,3 @@ The system uses a heuristic-based header detection to identify sections. For bes
 The model provides answers with explicit citations:
 `(Section: Methodology, Chunk: 2)`
 
-## 🛡️ License
-MIT
